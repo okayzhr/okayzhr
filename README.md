@@ -34,15 +34,9 @@ Here are some ideas to get you started:
 ## - Tech Toolbox  -
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,azure,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,postgres,powerbi,docker,azure,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-FF8C00?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
 
 ---
 
@@ -95,7 +89,12 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding Gif">
 </p>
+
+
+
+
+
 
 ✨ *"From Healthcare to Data – bridging empathy, precision, and analytics into tech solutions."* ✨
