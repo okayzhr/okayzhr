@@ -1,4 +1,4 @@
-## Hi there 👋
+  ## Hi there 👋
 
 <!--
 **okayzhr/okayzhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -106,7 +106,9 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+</p>
 
 
 
-✨ *"From Healthcare to Data – bridging empathy, precision, and analytics into tech solutions."* ✨
