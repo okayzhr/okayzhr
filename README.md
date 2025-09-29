@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## - About Me -
 
-💡 I’m a **Junior Data Engineer & Power BI Data Analyst** passionate about **data, analytics, and AI**.  
-🔄 Transitioned from **healthcare to IT**, bringing precision, empathy & problem-solving into data solutions.  
-🚀 Skilled in **Data Engineering, BI Dashboards, Real-time Streaming, and ETL Pipelines**.  
+* I’m a **Junior Data Engineer & Power BI Data Analyst** passionate about **data, analytics, and AI**.  
+* Transitioned from **healthcare to IT**, bringing precision, empathy & problem-solving into data solutions.  
+* Skilled in **Data Engineering, BI Dashboards, Real-time Streaming, and ETL Pipelines**.  
 🌍 Based in **Amsterdam, NL**.  
 🎶 Fun fact: Sudoku 🧩 | Kalimba 🎶 | Swimming 🏊 | Reading 📚 | Baking 🎂  
 
